@@ -20,8 +20,6 @@ About my tech skills:
 
 🚀 I’m a promoter of proactive and product-focused development, autonomous teams, and end-to-end ownership of features, products, and systems. 
 
-🌍 Only interested in freelance/contract remote work.
-
 🤝 Drop me [a message](mailto:ionut.baranga@gmail.com?subject=I%20found%20you%20on%20GitHub) if you think my expertise could help your business!
 
 <!--
