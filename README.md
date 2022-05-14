@@ -1,7 +1,6 @@
 ### Hi there 👋
-I’m a Senior Software Engineer with 10 years of experience.
 
-I help companies architect, design, build, measure and optimize time to market for systems like e-commerce modules, auto-financial calculators, risk management systems & integrations with external data providers.
+I’m a Senior Software Engineer with 10+ years of experience helping companies architect, design, build, measure and optimize time to market for systems like e-commerce platforms, auto-financial calculators, sports betting risk management systems & integrations with external data providers.
 
 About my tech skills: 
 
