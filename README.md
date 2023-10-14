@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a Senior Software Engineer with 10+ years of experience building maintainable, scalable & purpose-fit software solutions for product companies.
+I’m a Senior Software Engineer with 11+ years of experience helping product companies build clean, maintainable, scalable & purpose-fit software solutions.
  
 🔭 I’m currently working with:
 
