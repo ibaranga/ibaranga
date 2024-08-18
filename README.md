@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a Senior Software Engineer with 12+ years of experience helping product companies build clean, maintainable, scalable & purpose-fit software solutions.
+I'm Ionuț (yo-noots), a seasoned T-shaped Engineer with 12+ years of experience, crafting purpose-fit software for product companies.
  
 🔭 I’m currently working with:
 
