@@ -21,7 +21,7 @@ I'm Ionuț (yo-noots), a seasoned T-shaped Engineer with 12+ years of experience
 
 🤔 I'm interested in freelance/contract full-remote collaborations with product companies looking to (re)build, expand, or scale their products. 
 
-📫 Sounds like a match? Feel free to [reach out!](mailto:ionut.baranga@gmail.com?subject=I%20found%20you%20on%20GitHub)
+📫 Sounds like a match? [Let's connect!](https://www.linkedin.com/in/ibaranga/)
 
 <!--
 **ibaranga/ibaranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
